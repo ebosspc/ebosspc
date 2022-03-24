@@ -7,7 +7,7 @@
           src="https://avatars.githubusercontent.com/u/86384943?v=4" 
 />
 
-### 🚀 Hey there, I'm an aspiring aerospace engineer 🚀
+### 🚀 Hey there, I'm a perspiring aerospace engineer 🚀
 
 <!--- Discord --->
 <a href="https://discordapp.com/users/398537836468633600">
