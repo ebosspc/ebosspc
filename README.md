@@ -135,7 +135,7 @@
 <!--- GitPod --->
 <a href="https://www.gitpod.io/">
      <img align="left" alt="GitPod" height="25"
-          src="https://community.gitpod.io/uploads/default/original/2X/4/4cfe88cf2b5a748b624fca9f50b781c5cc018d29.png">
+          src="https://avatars.githubusercontent.com/u/37021919?s=200&v=4">
 </a>
 
 <!--- TensorFlow --->
