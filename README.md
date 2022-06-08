@@ -82,7 +82,7 @@
          src="https://github-readme-stats.vercel.app/api?username=Ethan-Francolla&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-### IDEs and Editors I use
+### IDEs and editors I use
 
 <!--- IDEA --->
 <a href="https://www.jetbrains.com/idea/">
