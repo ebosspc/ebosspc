@@ -17,7 +17,7 @@
 
 ------
 
-#### Hello, my name is Ethan, and I'm a highschool student in the United States
+#### Hello, my name is Ethan, and I'm a college student in the United States
 #### Feel free to add me on any of the linked socials or check out my repos
 
 <br /> 
@@ -82,7 +82,7 @@
          src="https://github-readme-stats.vercel.app/api?username=Ethan-Francolla&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
-### IDEs I use
+### IDEs and Editors I use
 
 <!--- IDEA --->
 <a href="https://www.jetbrains.com/idea/">
