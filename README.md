@@ -21,6 +21,9 @@
           src="https://img.shields.io/badge/ebosspc-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
 </a>
 
+<!--- Monkeytype --->
+[![monkeytype.badge]][monkeytype]
+
 ------
 
 #### Hello, my name is Ethan, and I'm a college student in the United States
@@ -161,3 +164,6 @@
      <img align="left" alt="Linux" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </a>
+
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[monkeytype]: https://monkeytype.com
