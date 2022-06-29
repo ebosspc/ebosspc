@@ -15,6 +15,12 @@
           src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
+<!--- Twitter --->
+<a href="twitter.com/ebosspc">
+     <img align="left" alt="Twitter"
+          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+</a>
+
 ------
 
 #### Hello, my name is Ethan, and I'm a college student in the United States
