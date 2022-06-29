@@ -22,7 +22,10 @@
 </a>
 
 <!--- Monkeytype --->
-[![monkeytype.badge]][monkeytype]
+<a href="https://monkeytype.com/profile/UlU57kcBOPZIlkCTkpBlfdds4wz1">
+     <img align="left" alt="Monkeytype"
+          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D200wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done">
+</a>
 
 ------
 
@@ -45,7 +48,7 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 </a>
 
-<!--- C Sharp --->
+<!--- C# --->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img align="left" alt="C#" width="30" height="30" 
          src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
@@ -164,6 +167,3 @@
      <img align="left" alt="Linux" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </a>
-
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
-[monkeytype]: https://monkeytype.com
