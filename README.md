@@ -16,9 +16,9 @@
 </a>
 
 <!--- Twitter --->
-<a href="twitter.com/ebosspc">
+<a href="https://twitter.com/ebosspc">
      <img align="left" alt="Twitter"
-          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
 ------
