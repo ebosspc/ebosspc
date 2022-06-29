@@ -24,7 +24,7 @@
 <!--- Monkeytype --->
 <a href="https://monkeytype.com/profile/UlU57kcBOPZIlkCTkpBlfdds4wz1">
      <img align="left" alt="Monkeytype"
-          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D200wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done">
+          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D147wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done">
 </a>
 
 ------
