@@ -18,7 +18,7 @@
 <!--- Twitter --->
 <a href="https://twitter.com/ebosspc">
      <img align="left" alt="Twitter"
-          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
+          src="https://img.shields.io/badge/ebosspc-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
 </a>
 
 ------
