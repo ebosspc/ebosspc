@@ -16,9 +16,9 @@
 </a>
 
 <!--- Twitter --->
-<a href="https://twitter.com/ebosspc">
+<a href="https://twitter.com/FireStorm1812">
      <img align="left" alt="Twitter"
-          src="https://img.shields.io/badge/ebosspc-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
+          src="https://img.shields.io/badge/FireStorm1812-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
 </a>
 
 <!--- Monkeytype --->
