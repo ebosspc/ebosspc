@@ -21,6 +21,12 @@
           src="https://img.shields.io/badge/FireStorm1812-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
 </a>
 
+<!--- LeetCode --->
+<a href="https://leetcode.com/FireStorm1812/">
+     <img align="left" alt="LeetCode"
+          src="https://img.shields.io/badge/FireStorm1812-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+</a>
+
 <!--- Monkeytype --->
 <a href="https://monkeytype.com/profile/UlU57kcBOPZIlkCTkpBlfdds4wz1">
      <img align="left" alt="Monkeytype"
