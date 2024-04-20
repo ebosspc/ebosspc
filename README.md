@@ -76,11 +76,6 @@
 
 ----
 
-<!--- GitHub Stats --->
-<a href="https://github.com/ebosspc/Profile">
-    <img align="right" alt="Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=ebosspc&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
-</a>
 
 ### IDEs and editors I use
 
