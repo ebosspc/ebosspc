@@ -141,7 +141,7 @@
 <!--- Anaconda --->
 <a href="https://www.anaconda.com/">
      <img align="left" alt="Anaconda" height="25"
-          src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
+          src="https://avatars.githubusercontent.com/u/497012?s=200&v=4">
 </a>
 
 <!--- NodeJS --->
