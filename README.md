@@ -12,25 +12,7 @@
 <!--- Discord --->
 <a href="https://discordapp.com/users/398537836468633600">
      <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
-</a>
-
-<!--- Twitter --->
-<a href="https://twitter.com/FireStorm1812">
-     <img align="left" alt="Twitter"
-          src="https://img.shields.io/badge/FireStorm1812-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white">
-</a>
-
-<!--- LeetCode --->
-<a href="https://leetcode.com/FireStorm1812/">
-     <img align="left" alt="LeetCode"
-          src="https://img.shields.io/badge/FireStorm1812-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06">
-</a>
-
-<!--- Monkeytype --->
-<a href="https://monkeytype.com/profile/UlU57kcBOPZIlkCTkpBlfdds4wz1">
-     <img align="left" alt="Monkeytype"
-          src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D155wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done">
+          src="https://img.shields.io/badge/-firestorm0001-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
 ------
