@@ -9,12 +9,6 @@
 
 ### 🚀 Hey there, I'm an aspiring aerospace engineer 🚀
 
-<!--- Discord --->
-<a href="https://discordapp.com/users/398537836468633600">
-     <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-firestorm0001-5865F2?&style=flat-square&logo=discord&logoColor=white">
-</a>
-
 ------
 
 #### Hello, I'm a college student in the United States
