@@ -111,5 +111,5 @@
 <!--- Kubernetes --->
 <a href="https://kubernetes.io/">
      <img align="left" alt="Kubernetes" height="25"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAUkLhdckLDiZaEgz1nxE7tvCxDbIYz5H7g&s">
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1055px-Kubernetes_logo_without_workmark.svg.png">
 </a>
