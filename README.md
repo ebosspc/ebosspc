@@ -99,17 +99,17 @@
 <!--- Arch --->
 <a href="https://archlinux.org/">
      <img align="left" alt="Arch Linux" height="25"
-          src="https://icon2.cleanpng.com/20180429/bkq/avtal2xsh.webp">
+          src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
 </a>
 
 <!--- Docker --->
 <a href="https://www.docker.com/">
      <img align="left" alt="Docker" height="25"
-          src="https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp">
+          src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
 </a>
 
 <!--- Kubernetes --->
 <a href="https://kubernetes.io/">
      <img align="left" alt="Kubernetes" height="25"
-          src="https://pngate.com/wp-content/uploads/2025/05/kubernetes-logo-blue-white-hexagon-wheel-symbol-1.png">
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAUkLhdckLDiZaEgz1nxE7tvCxDbIYz5H7g&s">
 </a>
