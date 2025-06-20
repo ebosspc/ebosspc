@@ -51,13 +51,13 @@
 <!--- OCaml --->
 <a href="https://ocaml.org/">
     <img align="left" alt="OCaml" width="30" height="30" 
-         src="https://www.computerhope.com/jargon/o/ocaml.htm" />
+         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQplFTqdcEg-iy37fakXoQgwqwM5rNy0E2h2w&s" />
 </a>
 
 <!--- Haskell --->
 <a href="https://www.haskell.org/">
     <img align="left" alt="Haskell" width="30" height="30" 
-         src="https://media.licdn.com/dms/image/sync/v2/D4D27AQER6GPLa6KtuA/articleshare-shrink_800/articleshare-shrink_800/0/1741644333301?e=2147483647&v=beta&t=_xVKICE4ATLOMmeI6ui7vb4mQ79PzqbT8x9ScgzlV0s" />
+         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRami_6HZTnAXIJjtjC7tsLnPb0QomAEIzwCQ&s" />
 </a> 
 
 <br />
