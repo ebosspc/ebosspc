@@ -57,7 +57,7 @@
 <!--- Haskell --->
 <a href="https://www.haskell.org/">
     <img align="left" alt="Haskell" width="30" height="30" 
-         src="https://en.wikipedia.org/wiki/File:Haskell-Logo.svg" />
+         src="https://en.wikipedia.org/wiki/File:Haskell-Logo.svg.png" />
 </a> 
 
 <br />
