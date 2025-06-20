@@ -48,18 +48,6 @@
          src="https://rust-lang.org/logos/rust-logo-512x512.png" />
 </a> 
 
-<!--- OCaml --->
-<a href="https://ocaml.org/">
-    <img align="left" alt="OCaml" width="30" height="30" 
-         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQplFTqdcEg-iy37fakXoQgwqwM5rNy0E2h2w&s" />
-</a>
-
-<!--- Haskell --->
-<a href="https://www.haskell.org/">
-    <img align="left" alt="Haskell" width="30" height="30" 
-         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRami_6HZTnAXIJjtjC7tsLnPb0QomAEIzwCQ&s" />
-</a> 
-
 <br />
 
 ----
