@@ -7,7 +7,7 @@
           src="https://avatars.githubusercontent.com/u/86384943?v=4" 
 />
 
-### Hey there, I work on offensive security, applied cryptography, and reverse engineering
+### 🚀 Hey there, I work on offensive security, applied cryptography, and reverse engineering 🚀
 
 ------
 
@@ -94,4 +94,22 @@
 <a href="https://www.kernel.org/">
      <img align="left" alt="Linux" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+</a>
+
+<!--- Arch --->
+<a href="https://archlinux.org/">
+     <img align="left" alt="Arch Linux" height="25"
+          src="https://icon2.cleanpng.com/20180429/bkq/avtal2xsh.webp">
+</a>
+
+<!--- Docker --->
+<a href="https://www.docker.com/">
+     <img align="left" alt="Docker" height="25"
+          src="https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp">
+</a>
+
+<!--- Kubernetes --->
+<a href="https://kubernetes.io/">
+     <img align="left" alt="Kubernetes" height="25"
+          src="https://pngate.com/wp-content/uploads/2025/05/kubernetes-logo-blue-white-hexagon-wheel-symbol-1.png">
 </a>
