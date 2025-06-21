@@ -7,11 +7,11 @@
           src="https://avatars.githubusercontent.com/u/86384943?v=4" 
 />
 
-### 🚀 Hey there, I work on offensive security, applied cryptography, and reverse engineering 🚀
+### 🚀 Hey there, I work on offensive security, applied cryptography, algorithmic trading, and reverse engineering 🚀
 
 ------
 
-#### I'm a college student in the United States
+#### I'm a college student @ Cornell University
 #### Feel free to add me on any of the linked socials or check out my repos
 
 <br /> 
