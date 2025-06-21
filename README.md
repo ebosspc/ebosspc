@@ -13,7 +13,7 @@
 
 <br /> 
 
-### Programming languages I'm learning
+### Programming languages I'm using in my projects
 
 <!--- Python --->
 <a href="https://www.python.org/">
